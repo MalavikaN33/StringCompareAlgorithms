@@ -1,0 +1,400 @@
+hello
+jello
+
+dice value :0.75
+duration : 0
+
+leveshtein value : 1
+duration : 0
+____________________________________________________________
+
+kitten
+sitting
+
+dice value :0.363636
+duration : 0
+
+leveshtein value : 3
+duration : 0
+____________________________________________________________
+
+why now?
+what now?
+
+dice value :0.666667
+duration : 0
+
+leveshtein value : 2
+duration : 0
+____________________________________________________________
+
+why now?
+what next?
+
+dice value :0.25
+duration : 996
+
+leveshtein value : 7
+duration : 0
+____________________________________________________________
+
+complicated
+completed
+
+dice value :0.666667
+duration : 1008
+
+leveshtein value : 6
+duration : 0
+____________________________________________________________
+
+i like indian food
+i like korean food
+
+dice value :0.705882
+duration : 0
+
+leveshtein value : 4
+duration : 0
+____________________________________________________________
+
+i went to a chinese restaurant
+to buy a loaf of bread
+
+dice value :0.217391
+duration : 1012
+
+leveshtein value : 25
+duration : 1000
+____________________________________________________________
+
+i went to a chinese restaurant 
+i wnet to a italian restaurant
+
+dice value :0.703704
+duration : 987
+
+leveshtein value : 7
+duration : 1000
+____________________________________________________________
+
+i like cold milk
+i like frozen pizza
+
+dice value :0.363636
+duration : 999
+
+leveshtein value : 11
+duration : 0
+____________________________________________________________
+
+im drinking tea
+but i like coffee
+
+dice value :0
+duration : 0
+
+leveshtein value : 14
+duration : 0
+____________________________________________________________
+
+she sells sea shells on the sea shore
+i went to a chinese restaurant to buy a loaf of bread
+
+dice value :0.233333
+duration : 987
+
+leveshtein value : 40
+duration : 0
+____________________________________________________________
+
+theres a hundred and four days of summer vacations
+the annual problem of our generation is finding a good way to spend it
+
+dice value :0.427184
+duration : 987
+
+leveshtein value : 51
+duration : 0
+____________________________________________________________
+
+life may be
+building a rocket
+
+dice value :0
+duration : 0
+
+leveshtein value : 14
+duration : 0
+____________________________________________________________
+
+contact
+contract
+
+dice value :0.769231
+duration : 0
+
+leveshtein value : 1
+duration : 0
+____________________________________________________________
+
+contact
+communicate
+
+dice value :0.125
+duration : 0
+
+leveshtein value : 9
+duration : 0
+____________________________________________________________
+
+marshmellosticks
+marchmellocake
+
+dice value :0.5
+duration : 1013
+
+leveshtein value : 7
+duration : 0
+____________________________________________________________
+
+how con oyu tell the difference?
+how do you know the difference?
+
+dice value :0.666667
+duration : 1009
+
+leveshtein value : 10
+duration : 0
+____________________________________________________________
+
+Coding is basically the computer language used to develop apps, websites and software. Without it, we'd have none of the major technology we've come to rely on such as Facebook, our smartphones, the browser we choose to view our favorite blogs or even the blogs themselves. It all runs on code.
+The benefits of learning to code are actually quite vast. No longer do we live in a time when only tech professionals are using this useful language. Being able to utilize the commands of code yourself will enable you to have more control of the technology you depend upon.
+
+dice value :0.560811
+duration : 999
+
+
+hello
+world
+
+dice value :0
+duration : 103069
+
+leveshtein value : 4
+duration : 0
+____________________________________________________________
+
+project
+present
+
+dice value :0.166667
+duration : 0
+
+leveshtein value : 3
+duration : 0
+____________________________________________________________
+
+ice cream
+icecream
+
+dice value :0.8
+duration : 0
+
+leveshtein value : 3
+duration : 0
+____________________________________________________________
+
+hello world
+jello morld
+
+dice value :0.7
+duration : 0
+
+leveshtein value : 2
+duration : 0
+____________________________________________________________
+
+hello world program is a basic example program
+the hello world program is a basic example program
+
+dice value :0.973684
+duration : 0
+
+leveshtein value : 12
+duration : 0
+____________________________________________________________
+
+hello world program is a basic example program
+jello sorld program is a basic enanoke pwofeam
+
+dice value :0.75
+duration : 0
+
+leveshtein value : 9
+duration : 0
+____________________________________________________________
+
+hello world 
+hi world
+
+dice value :0.555556
+duration : 0
+
+leveshtein value : 10
+duration : 0
+____________________________________________________________
+
+elephant
+telephone
+
+dice value :0.533333
+duration : 0
+
+leveshtein value : 4
+duration : 0
+____________________________________________________________
+
+monkey d luffy
+monkey d dragon
+
+dice value :0.64
+duration : 0
+
+leveshtein value : 6
+duration : 0
+____________________________________________________________
+
+monkey d dragon is the leader of the revolutionary army that is currently delcaring war with the world government
+monkey d luffy is the captain of the straw hat crew and successfully escaped from one of the emperors territories
+
+dice value :0.458599
+duration : 0
+
+
+monkey d luffy is the captain of the straw hat crew and successfully escaped from totto land
+monkey d dragon is the leader of the revolutionary army that is currently delcaring war 
+
+dice value :0.452555
+duration : 0
+
+leveshtein value : 57
+duration : 0
+____________________________________________________________
+
+the four leaf clover belongs to the golden dawns and the mage also has aquired a spirit
+the five leaf clover belongs to the black bulls and the has three swords so far
+
+dice value :0.601626
+duration : 0
+
+leveshtein value : 37
+duration : 0
+____________________________________________________________
+
+monkey d luffy is the captain of the straw hat crew and successfully escaped from one of the emperors 
+monkey d dragon is the leader of the revolutionary army that is currently delcaring war with the world
+
+dice value :0.455172
+duration : 0
+
+leveshtein value : 64
+duration : 0
+____________________________________________________________
+
+monkey d luffy is the captain of the straw hat crew and successfully escaped from one of the emperors territories
+monkey d dragon is the leader of the revolutionary army that is currently delcaring war with the world government
+
+dice value :0.458599
+duration : 0
+
+
+intellectuals
+inteligance
+
+dice value :0.363636
+duration : 0
+
+leveshtein value : 7
+duration : 0
+____________________________________________________________
+
+c++ is an object oriented programming language
+but c is not an object oriented programming language
+
+dice value :0.886364
+duration : 0
+
+leveshtein value : 21
+duration : 0
+____________________________________________________________
+
+c++ is an object oriented programming language
+but c isnt object oriented programming language
+
+dice value :0.86747
+duration : 0
+
+leveshtein value : 10
+duration : 0
+____________________________________________________________
+
+semester end examniantions
+annual exam
+
+dice value :0.294118
+duration : 0
+
+leveshtein value : 24
+duration : 0
+____________________________________________________________
+
+cligraphy
+graphics
+
+dice value :0.533333
+duration : 0
+
+leveshtein value : 7
+duration : 0
+____________________________________________________________
+
+paris hilton
+london tipton
+
+dice value :0.190476
+duration : 0
+
+leveshtein value : 10
+duration : 0
+____________________________________________________________
+
+function overloading
+operator overloading
+
+dice value :0.594595
+duration : 0
+
+leveshtein value : 7
+duration : 0
+____________________________________________________________
+
+File size would be smaller with a lossy compression algorithm
+ifle sixe woild be smallwe wirh a loselu conpewssws algoeiyhm
+
+dice value :0.574257
+duration : 0
+
+leveshtein value : 18
+duration : 0
+____________________________________________________________
+
+The selection of the string similarity algorithm depends on the use case.
+the selection id the steinf similarity alforithm depends on yhe use cqsw.
+
+dice value :0.785714
+duration : 0
+
+leveshtein value : 9
+duration : 0
+____________________________________________________________
